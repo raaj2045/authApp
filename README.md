@@ -24,3 +24,5 @@ To start the server:
 7. cd into client.
 8. run npm install to install frontend dependencies.
 9. run npm start to start the application and visit http://localhost:3000
+
+small change.
